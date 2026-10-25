@@ -1,0 +1,25 @@
+
+# Secrets
+.env
+.env.*
+
+# Allow example environment file
+!.env.example
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Datasets
+data/
+
+# IDE settings
+.vscode/
+
+# Generated graph images
+*_graph.png
+*_graph.png
